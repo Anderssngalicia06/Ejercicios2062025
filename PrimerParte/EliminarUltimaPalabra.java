@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EliminarUltimaPalabar {
+public class EliminarUltimaPalabra {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
