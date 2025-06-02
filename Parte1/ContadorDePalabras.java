@@ -1,3 +1,4 @@
+package Parte1;
 import java.util.Scanner;
 
 public class ContadorDePalabras {
